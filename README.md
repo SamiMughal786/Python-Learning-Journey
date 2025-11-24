@@ -17,7 +17,7 @@ The main goal is to build a solid foundation in Python, track my progress public
 I'm sharing my progress and connecting with other developers. Let's connect!
 
 - Twitter: [@Samimughal78](https://x.com/Samimughal78?t=8gN_c7qKpHe_rVWZz1zCtA&s=09)
-- LinkedIn: [Sami Mughal](www.linkedin.com/in/sami-mughal-920738261)
+- LinkedIn: [Sami Mughal](http://www.linkedin.com/in/sami-ullah-mughal-920738261)
 
 ## Tools and Resources
 
